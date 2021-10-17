@@ -1,0 +1,34 @@
+.skill-display{
+    width: 75%;
+    padding: 10px;
+    margin-bottom: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.skills-progress{
+
+    width: 11rem;
+    height: 2.6rem;
+    background-color: lightgray;
+    border-radius: 1.2rem;
+}
+.skills-progress>div{
+    border-radius: 20px 0px 0px 20px;
+    box-shadow: 1px 1px 5px 2px  gray;
+}
+.skill-name span{
+    color: whitesmoke;
+    font-size: 1.3rem;
+    margin-left: 20px;
+    vertical-align: middle;
+    
+}
+.eighty-five-precent{
+    height: inherit;
+    width: 85%;
+}
+.mb-blue{
+    background-color: blue;
+}
